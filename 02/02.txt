@@ -1,0 +1,7 @@
+* ゲームグラフィックス特論02
+
+
+** 宿題
+四角形を画面に描画する。
+glslのinとoutはwebglでは使えない?
+attributeはinにvaryingはoutに変わった?
